@@ -7,3 +7,4 @@ reference that they used in these methods do not include the user’s mood at th
 watching or using the product. Therefore, in this project plan, not only understanding some of the
 recommendation methods, I would also like to develop a more advanced recommendation engine by
 combining the real-time emotion detection and gesture recognition system with these methods.
+
