@@ -10,9 +10,9 @@ combining the real-time emotion detection and gesture recognition system with th
 
 ## METHODOLOGY
 ### Recommendation System Methods
-1. Popular-based approach
-2. Content-based filtering approach
-3. Collaborative filtering using k-Nearest Neighbors approach
+1. [Popular-based approach](https://github.com/boyleerock/Anime-Recommender-with-your-Mood/blob/main/Popular_based_rc.ipynb)
+2. [Content-based filtering approach](https://github.com/boyleerock/Anime-Recommender-with-your-Mood/blob/main/cosinesimilarity_rs.ipynb)
+3. [Collaborative filtering using k-Nearest Neighbors approach](https://github.com/boyleerock/Anime-Recommender-with-your-Mood/blob/main/Collaborative_filtering_knn.ipynb)
 
 ### Emotion classification and detection
 1. [CNN model](https://github.com/boyleerock/Anime-Recommender-with-your-Mood/blob/main/emotions.py)
@@ -21,3 +21,4 @@ combining the real-time emotion detection and gesture recognition system with th
 4. [mobilenet](https://github.com/boyleerock/Anime-Recommender-with-your-Mood/blob/main/mobilenet.ipynb)
 
 ### User gesture recognition
+1. [Gesture recognition](https://github.com/boyleerock/Anime-Recommender-with-your-Mood/blob/main/ThumbsUpDownProject.py)
