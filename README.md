@@ -15,9 +15,9 @@ combining the real-time emotion detection and gesture recognition system with th
 3. Collaborative filtering using k-Nearest Neighbors approach
 
 ### Emotion classification and detection
-1. CNN model
-2. vgg16
-3. Resnet50
+1. [CNN model](https://github.com/boyleerock/Anime-Recommender-with-your-Mood/blob/main/emotions.py)
+2. [vgg16](https://github.com/boyleerock/Anime-Recommender-with-your-Mood/blob/main/vgg16.ipynb)
+3. [Resnet50](https://github.com/boyleerock/Anime-Recommender-with-your-Mood/blob/main/resnet50.ipynb)
 4. [mobilenet](https://github.com/boyleerock/Anime-Recommender-with-your-Mood/blob/main/mobilenet.ipynb)
 
 ### User gesture recognition
