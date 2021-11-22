@@ -18,6 +18,6 @@ combining the real-time emotion detection and gesture recognition system with th
 1. CNN model
 2. vgg16
 3. Resnet50
-4.mobilenet
+4. [mobilenet](https://github.com/boyleerock/Anime-Recommender-with-your-Mood/blob/main/mobilenet.ipynb)
 
 ### User gesture recognition
