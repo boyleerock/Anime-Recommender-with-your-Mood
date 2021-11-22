@@ -10,12 +10,12 @@ combining the real-time emotion detection and gesture recognition system with th
 
 ## METHODOLOGY
 ### Recommendation System Methods
-#### Popular-based approach
-#### Content-based filtering approach
-#### Collaborative filtering using k-Nearest Neighbors approach
+1. Popular-based approach
+2. Content-based filtering approach
+3. Collaborative filtering using k-Nearest Neighbors approach
 
 ### Emotion classification and detection
-#### CNN model
-#### vgg16
-#### Resnet50
-#### mobilenet
+1. CNN model
+2. vgg16
+3. Resnet50
+4.mobilenet
