@@ -8,3 +8,14 @@ watching or using the product. Therefore, in this project plan, not only underst
 recommendation methods, I would also like to develop a more advanced recommendation engine by
 combining the real-time emotion detection and gesture recognition system with these methods.
 
+## METHODOLOGY
+### Recommendation System Methods
+#### Popular-based approach
+#### Content-based filtering approach
+#### Collaborative filtering using k-Nearest Neighbors approach
+
+### Emotion classification and detection
+#### CNN model
+#### vgg16
+#### Resnet50
+#### mobilenet
