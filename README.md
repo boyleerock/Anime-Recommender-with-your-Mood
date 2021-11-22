@@ -7,7 +7,7 @@ reference that they used in these methods do not include the user’s mood at th
 watching or using the product. Therefore, in this project plan, not only understanding some of the
 recommendation methods, I would also like to develop a more advanced recommendation engine by
 combining the real-time emotion detection and gesture recognition system with these methods.
-
+## Final report >> [Click here](https://github.com/boyleerock/Anime-Recommender-with-your-Mood/blob/main/Final%20report_Applied%20Machine%20Learning_Po-Yi%20Lee.pdf)
 ## METHODOLOGY
 ### Recommendation System Methods
 1. [Popular-based approach](https://github.com/boyleerock/Anime-Recommender-with-your-Mood/blob/main/Popular_based_rc.ipynb)
