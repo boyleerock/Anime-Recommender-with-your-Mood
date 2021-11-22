@@ -28,3 +28,11 @@ https://user-images.githubusercontent.com/61671531/142807904-c2d5c85f-7aa6-4a99-
 
 ### User gesture recognition
 1. [Gesture recognition](https://github.com/boyleerock/Anime-Recommender-with-your-Mood/blob/main/ThumbsUpDownProject.py)
+
+
+
+
+https://user-images.githubusercontent.com/61671531/142808087-9522a20a-8581-4059-9e26-0e664febc20e.mp4
+
+
+
